@@ -4,8 +4,8 @@
  * Instituição: Universidade La Salle
  * Curso: Análise e Desenvolvimento de Sistemas
  * Disciplina: Tópicos Especiais em ADS
- * Autor: Keoma da Silva
- * Data: 01/05/2024 
+ * Autor: Paula Tayná
+ * Data: 02/06/2024 
  *  
  */
 
