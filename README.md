@@ -4,9 +4,8 @@ API RestFul + CRUD + Node.JS + MongoDB
 Universidade La Salle
 Disciplina: Tópicos Especiais em Ads 
 Semestre: 2024/01
-Prof. Fausto N. da Silva Vanin 
-Aluno: Keoma da Silva 
-Matrícula: 202122405
+Aluna: Paula Tayná Passos da Silva
+Matrícula: 202213311
 
 
 API Para Cadastro de Alunos 
