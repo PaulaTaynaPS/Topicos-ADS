@@ -1,0 +1,23 @@
+{
+  "name": "cadastro-de-alunos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./index.js/localhost 8000"
+  },
+  "keywords": [],
+  "author": "Keoma da Silva",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "chartjs-node-canvas": "^4.1.6",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "express-handlebars": "^7.1.2",
+    "mongodb": "^6.6.1",
+    "mongoose": "^8.3.4",
+    "nodemon": "^3.1.0"
+  }
+}
